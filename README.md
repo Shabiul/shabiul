@@ -1,29 +1,33 @@
 <div align="center">
 
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:00D9FF&height=230&section=header&text=Shabiul%20Hasnain%20Siddiqui&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20Systems%20Engineer%20%7C%20LLM%20Pipelines%20%7C%20Backend%20Architect&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <!-- Main Animated Typing SVG Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Shabiul+%F0%9F%91%8B;AI+Systems+Engineer+%7C+Developer+%7C+Builder;Building+Offline+AI+Pipelines+%26+MCP+Agents;Real-Time+Multimodal+Avatars+%7C+XTTSv2+%7C+Wav2Lip;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <!-- Animated Typing Headline -->
-  <a href="https://github.com/shabiul">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=820&lines=AI+Systems+Engineer+%E2%80%94+Offline+LLM+Pipelines+%26+Local+Inference;Architecting+MCP+Tool-Augmented+Workflows+%26+Autonomous+Agents;Building+Real-Time+Multimodal+Avatars+(XTTSv2+%7C+Wav2Lip+%7C+RVC);High-Throughput+Backends+(Node.js+%7C+Next.js+%7C+Redis+%7C+WebSockets)" alt="Typing Headline" />
-  </a>
+  <br><br>
+
+  <!-- Dynamic Theme-Aware ASCII Profile Card (Switches dynamically between Dark & Light mode) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
+    <img alt="Shabiul ASCII GitHub Profile Card" src="./dark_mode.svg" width="100%" />
+  </picture>
 
   <br><br>
 
   <!-- Profile Metrics Badges -->
   <a href="https://github.com/shabiul">
-    <img src="https://komarev.com/ghpvc/?username=shabiul&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=shabiul&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="Profile views"/>
   </a>
   <a href="https://github.com/shabiul?tab=followers">
-    <img src="https://img.shields.io/github/followers/shabiul?label=FOLLOWERS&style=for-the-badge&logo=github&color=7C3AED&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/shabiul?label=FOLLOWERS&style=flat-square&logo=github" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/shabiul?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/shabiul?label=TOTAL%20STARS&style=for-the-badge&logo=apachespark&color=00D9FF&logoColor=white" alt="Total Stars" />
+    <img src="https://img.shields.io/github/stars/shabiul?label=TOTAL%20STARS&style=flat-square&logo=github" alt="GitHub stars"/>
   </a>
 
   <br><br>
 
-  <!-- Quick Navigation Links -->
+  <!-- Fast Navigation Links -->
   <p align="center">
     <a href="#-whoami"><b>About Me</b></a> •
     <a href="#-key-achievements"><b>Achievements</b></a> •
@@ -287,6 +291,16 @@ class ShabiulHasnainSiddiqui:
 
   <!-- GitHub Streak Counter -->
   <img src="https://streak-stats.demolab.com?user=shabiul&theme=tokyonight&hide_border=true&card_width=750" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Matrix
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/shabiul/shabiul/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="95%" />
 
 </div>
 
