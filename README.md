@@ -1,9 +1,3 @@
-
-
-Explain
-Universal Animated GitHub Profile README Template.md
-
-100%
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;AI+Engineer+%7C+Developer+%7C+Builder;Building+AI-powered+solutions.;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing SVG" />
