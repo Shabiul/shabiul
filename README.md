@@ -24,6 +24,12 @@
   <a href="https://github.com/shabiul?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/shabiul?label=TOTAL%20STARS&style=flat-square&logo=github" alt="GitHub stars"/>
   </a>
+  <a href="https://github.com/shabiul">
+    <img src="https://img.shields.io/badge/CONTRIBUTIONS-808%2B%20%2F%20YEAR-00D9FF?style=flat-square&logo=git&logoColor=white" alt="Contributions"/>
+  </a>
+  <a href="https://github.com/Naaz-Ai-Labs">
+    <img src="https://img.shields.io/badge/ORG-%40Naaz--Ai--Labs-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Naaz AI Labs"/>
+  </a>
 
   <br><br>
 
@@ -52,6 +58,7 @@ class ShabiulHasnainSiddiqui:
         self.education = "B.E. in Artificial Intelligence & Machine Learning (2021-2025)"
         self.focus_domains = [
             "Offline LLM Inference & Local Model Serving",
+            "Autonomous Systems & AV-Tech (selfdrive)",
             "Model Context Protocol (MCP) & Claude CLI Tool Automation",
             "Multimodal Speech-to-Avatar Pipelines (TTS, RVC, Wav2Lip)",
             "Real-Time Event-Driven Backend Systems (WebSockets, Redis)"
@@ -60,9 +67,11 @@ class ShabiulHasnainSiddiqui:
     def current_status(self) -> dict:
         return {
             "current_role": "AI / Software Intern at NIIT MTS",
+            "collaborating_at": "@Naaz-Ai-Labs",
+            "annual_contributions": "808+ verified commits & code reviews",
             "active_systems": "Offline LLM inference pipelines with Ollama & Qwen3-Coder 30B",
             "stack": ["Python", "TypeScript", "Node.js", "Next.js", "Redis", "Docker"],
-            "open_for": "Full-time AI Systems, GenAI, and Full-Stack Engineering roles"
+            "open_for": "Full-time AI Systems, Autonomous AI, and Full-Stack Engineering roles"
         }
 ```
 
